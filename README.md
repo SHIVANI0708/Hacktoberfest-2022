@@ -1,2 +1,2 @@
-# Hacktoberfest-2022
-Make your Pull Request on Hacktober-fest 2022 and participate in the contest.❤️😊
+# HACKTOBERFEST-2022
+Make Your Pull Request On Hacktober-Fest 2022 and Participate In The Contest.❤️😊
